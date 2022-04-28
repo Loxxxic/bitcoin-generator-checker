@@ -1,2 +1,2 @@
-# bitcoin-generator-checker
+# BITCOIN WALLET GENERATOR & CHECKER
 Bitcoin (PK) Wallet Generator &amp; Checker. Based on Python3
